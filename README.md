@@ -16,6 +16,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-ashraf2&show_icons=true&locale=en&layout=compact" alt="omar-ashraf2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omar-ashraf2&show_icons=true&theme=merko&locale=en" alt="omar-ashraf2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-ashraf2&theme=default" alt="omar-ashraf2" /></p>
